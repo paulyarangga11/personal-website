@@ -73,6 +73,7 @@ nav ul li a {
     position: relative;
     z-index: 2;
     transition: transform 0.5s;
+
 }
 .col-2 {
     text-align: right;
@@ -81,7 +82,7 @@ nav ul li a {
 }
 .back-img {
     position: absolute;
-    width: 70%;
+    width: 69%;
     max-width: 450px;
     top: -12px;
     right: 15px;
